@@ -1,8 +1,8 @@
 # DSCI6001: Mathematics for Data Scientists
---------------
 Final Project
 --------------
 ### It can be [found here](https://github.com/carlespoles/DSCI6001-student/blob/master/week3/3.4/Carles_PolesMielgo_DSCI6001_FinalProject.ipynb).
+--------------
 
 ![DS venn diagram](http://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png)  
 Let's avoid the __danger zone__!
