@@ -1,11 +1,15 @@
 # DSCI6001: Mathematics for Data Scientists
+--------------
+Final Project
+--------------
+### It can be [found here](https://github.com/carlespoles/DSCI6001-student/blob/master/week3/3.4/Carles_PolesMielgo_DSCI6001_FinalProject.ipynb).
 
 ![DS venn diagram](http://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png)  
 Let's avoid the __danger zone__!
 
 ## Description of the Course
 
-This course provides a framework of core skills in linear algebra, analysis, and vector calculus necessary for data science. There is a focus on improving and developing base skills in programming and engineering mathematics. The teaching language used is Python, however, the skills taught in this course are meant to be language agnostic and applicable to any challenges the data scientist might encounter. 
+This course provides a framework of core skills in linear algebra, analysis, and vector calculus necessary for data science. There is a focus on improving and developing base skills in programming and engineering mathematics. The teaching language used is Python, however, the skills taught in this course are meant to be language agnostic and applicable to any challenges the data scientist might encounter.
 
 ### Instructors:
 * J. J. Thompson, PhD: jared.thompson@galvanize.com
@@ -14,7 +18,7 @@ This course provides a framework of core skills in linear algebra, analysis, and
 ### Class Information
 
 Class Location: 44 Tehama St, 3rd Floor, gU Classroom   
-Class Time: 9:00 AM - 10:30 AM PST, M-T-Th-F 
+Class Time: 9:00 AM - 10:30 AM PST, M-T-Th-F
 Instructor Assisted Lab Hours: 10:30 AM - 12:00 PM PST, M-T-Th-F   
 Office Hours - Jared: W 9:00-12:00 PM and by appointment
 Office Hours - Amy: After class on lecture days and by appointment
@@ -73,7 +77,7 @@ Students are expected to be present and on time for all class meetings.
 Cell phones can be highly disruptive to the class environment. Please silence these devices. In the event of an emergency, please step out of the classroom.
 
 ### Class Participation
-You will learn more easily and enjoyably if you actively participate verbally and stay engaged. The lecturer will "call out" individual students to participate in answering questions as given in class. Students are advised to maintain a high level of preparation so as to smooth these interactions. 
+You will learn more easily and enjoyably if you actively participate verbally and stay engaged. The lecturer will "call out" individual students to participate in answering questions as given in class. Students are advised to maintain a high level of preparation so as to smooth these interactions.
 
 ### Course Structure
 This course is divided into five units:
@@ -84,7 +88,7 @@ This course is divided into five units:
 5. Application of Mathematical Concepts to Programming
 
 ### Academic Integrity
-As per the University's Academic Integrity Policy and Procedures: 
+As per the University's Academic Integrity Policy and Procedures:
 
 The University expects that all students, graduate and undergraduate, will learn in an environment where they work independently in the pursuit of knowledge, conduct themselves in an honest and ethical manner and respect the intellectual work of others. Each member of the University community has a responsibility to be familiar with the definitions contained in, and adhere to, the Academic Integrity Policy. Students are expected to maintain the highest standards of academic integrity.
 
@@ -141,11 +145,3 @@ These are the instructor supported class hours. Instructors may be available on 
 | VC | 7.2 | Lagrange Multipliers II | Jared
 | VC | 7.3 | Norms/Metrics and the Unit Circle | Amy
 | VC | 7.4 | Review Day | Jared & Amy
-
-
-
-
-
-
-
-
